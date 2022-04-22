@@ -1,0 +1,18 @@
+const userInput = require('./input.js');
+const inquirer = require('inquirer');
+// const markDown = require('./markdown.js');
+//run function that takes user input
+async function answersStored(){
+  console.log('title');
+  await userInput.askQuestions();
+  let userAnswers = 
+  console.log(userAnswers);
+};
+
+answersStored();
+
+
+// console.log(markDown);
+
+//run function that fills in mark down with user input
+//run function that generates markdown
