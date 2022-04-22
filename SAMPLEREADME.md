@@ -1,4 +1,4 @@
-let markDownFormat = `## ${title}
+## readme express
 
 ## Table of Contents
 
@@ -20,50 +20,46 @@ let markDownFormat = `## ${title}
 
 <a name="description"></a>
 
-${description}
+makes readmes quick
 
 
 ### Installation
 
 <a name="installation"></a>
 
-${installInfo}
+none
 
 ### Usage
 
 <a name="usage"></a>
 
-${usageInfo}
+none
 
 
 ## Contributing
 
 <a name="contributing"></a>
 
-${contributionGuidelines}
+none
 
 ## License
 
 <a name="license"></a>
 
-${license}
+Apache license 2.0
 
 ## Test
 
 <a name="test"></a>
 
-${testInfo}
+none
 
 ## Contact
 
 <a name="gitHub"></a>
 
-${gitHubUserName}
+username here
 
 <a name="contact"></a>
 
-${email}
-
-`
-
-module.exports = { markDownFormat };
+email here

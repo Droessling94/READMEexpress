@@ -1,0 +1,25 @@
+{
+  "name": "readmeexpress",
+  "version": "1.0.0",
+  "description": "READMEexpress is an application that takes user input and generates a dynamic and professional README file\r still some work to do but this is the framework i have so far.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Droessling94/READMEexpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Droessling94/READMEexpress/issues"
+  },
+  "homepage": "https://github.com/Droessling94/READMEexpress#readme"
+}
+
+
